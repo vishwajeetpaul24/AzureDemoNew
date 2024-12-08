@@ -84,3 +84,6 @@ C:\aspnetcore\AzureDemo\AzureDemo\obj\Debug\net8.0\refint\AzureDemo.dll
 C:\aspnetcore\AzureDemo\AzureDemo\obj\Debug\net8.0\AzureDemo.pdb
 C:\aspnetcore\AzureDemo\AzureDemo\obj\Debug\net8.0\AzureDemo.genruntimeconfig.cache
 C:\aspnetcore\AzureDemo\AzureDemo\obj\Debug\net8.0\ref\AzureDemo.dll
+C:\aspnetcore\AzureDemo\AzureDemo\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\aspnetcore\AzureDemo\AzureDemo\bin\Debug\net8.0\Azure.Storage.Queues.dll
+C:\aspnetcore\AzureDemo\AzureDemo\bin\Debug\net8.0\System.IO.Hashing.dll
