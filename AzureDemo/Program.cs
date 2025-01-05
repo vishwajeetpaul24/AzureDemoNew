@@ -1,3 +1,4 @@
+using AzureDemo.Controllers;
 using AzureDemo.Data;
 using AzureDemo.Services;
 using Microsoft.EntityFrameworkCore;
@@ -18,6 +19,8 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("AzureDemoConnect
 //        return new AzureQueueService(configuration);
 //    });
 builder.Services.AddSingleton<AzureQueueService>();
+//builder.Services.AddTransient<CustomMiddleware>();
+
 
 var app = builder.Build();
     
@@ -29,6 +32,7 @@ var app = builder.Build();
             // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
             app.UseHsts();
         }
+       
 
         app.UseHttpsRedirection();
         app.UseStaticFiles();
@@ -37,9 +41,10 @@ var app = builder.Build();
 
         app.UseAuthorization();
 
-        app.MapControllerRoute(
+app.MapControllerRoute(
             name: "default",
             pattern: "{controller=Home}/{action=Index}/{id?}");
+//app.UseMiddleware<CustomMiddleware>();
 
-        app.Run();
+app.Run();
     

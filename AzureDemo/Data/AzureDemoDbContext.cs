@@ -11,5 +11,6 @@ namespace AzureDemo.Data
         }
 
         public DbSet<Users> Users { get; set; }
+        public  DbSet<formData> formData { get; set; }
     }
 }
