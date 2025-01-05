@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\aspnetcore\\AzureDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\services\\azurequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\services\\azurequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\controllers\\formdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\controllers\\formdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\views\\formdata\\azure_queue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\views\\formdata\\azure_queue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\data\\azuredemodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\data\\azuredemodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|c:\\aspnetcore\\azuredemo\\azuredemo\\models\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB194BD-1B2E-46CB-BDE9-1DC7C2606DAC}|AzureDemo\\AzureDemo.csproj|solutionrelative:azuredemo\\models\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +42,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AzureDemo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AzureDemo\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBwAAABwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T18:26:23.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Views\\User\\Register.cshtml",
-              "RelativeDocumentMoniker": "AzureDemo\\Views\\User\\Register.cshtml",
-              "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Views\\User\\Register.cshtml",
-              "RelativeToolTip": "AzureDemo\\Views\\User\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T16:49:55.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "AzureDemo\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Controllers\\UserController.cs",
-              "RelativeToolTip": "AzureDemo\\Controllers\\UserController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwCAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:44:21.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Program.cs",
-              "RelativeDocumentMoniker": "AzureDemo\\Program.cs",
-              "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Program.cs",
-              "RelativeToolTip": "AzureDemo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:34:22.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\appsettings.json",
               "RelativeDocumentMoniker": "AzureDemo\\appsettings.json",
               "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\appsettings.json",
               "RelativeToolTip": "AzureDemo\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T16:33:22.386Z",
+              "WhenOpened": "2024-12-23T12:04:07.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AzureDemoDbContext.cs",
-              "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Data\\AzureDemoDbContext.cs",
-              "RelativeDocumentMoniker": "AzureDemo\\Data\\AzureDemoDbContext.cs",
-              "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Data\\AzureDemoDbContext.cs",
-              "RelativeToolTip": "AzureDemo\\Data\\AzureDemoDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "formData.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Models\\formData.cs",
+              "RelativeDocumentMoniker": "AzureDemo\\Models\\formData.cs",
+              "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Models\\formData.cs",
+              "RelativeToolTip": "AzureDemo\\Models\\formData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:30:32.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T08:06:05.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Models\\Users.cs",
               "RelativeDocumentMoniker": "AzureDemo\\Models\\Users.cs",
               "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Models\\Users.cs",
               "RelativeToolTip": "AzureDemo\\Models\\Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:27:33.847Z",
+              "WhenOpened": "2024-12-23T08:05:57.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AzureDemoDbContext.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Data\\AzureDemoDbContext.cs",
+              "RelativeDocumentMoniker": "AzureDemo\\Data\\AzureDemoDbContext.cs",
+              "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Data\\AzureDemoDbContext.cs",
+              "RelativeToolTip": "AzureDemo\\Data\\AzureDemoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:46:33.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Azure_Queue.cshtml",
+              "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Views\\formData\\Azure_Queue.cshtml",
+              "RelativeDocumentMoniker": "AzureDemo\\Views\\formData\\Azure_Queue.cshtml",
+              "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Views\\formData\\Azure_Queue.cshtml",
+              "RelativeToolTip": "AzureDemo\\Views\\formData\\Azure_Queue.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T07:19:59.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AzureDemo\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AzureDemo\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:41:27.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formDataController.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Controllers\\formDataController.cs",
+              "RelativeDocumentMoniker": "AzureDemo\\Controllers\\formDataController.cs",
+              "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Controllers\\formDataController.cs",
+              "RelativeToolTip": "AzureDemo\\Controllers\\formDataController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:08:44.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AzureQueueService.cs",
+              "DocumentMoniker": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Services\\AzureQueueService.cs",
+              "RelativeDocumentMoniker": "AzureDemo\\Services\\AzureQueueService.cs",
+              "ToolTip": "C:\\aspnetcore\\AzureDemo\\AzureDemo\\Services\\AzureQueueService.cs",
+              "RelativeToolTip": "AzureDemo\\Services\\AzureQueueService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:57:58.002Z",
               "EditorCaption": ""
             }
           ]

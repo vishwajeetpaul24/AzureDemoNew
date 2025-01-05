@@ -11,8 +11,8 @@ namespace AzureDemo.Services
         private readonly string _queuename;
         public AzureQueueService(IConfiguration configuration)
         {
-            _connectionstring = "Storage Connection String";
-            _queuename = "Queue Name"; 
+            _connectionstring = "Azurestorageconnection string";
+            _queuename = "myqueue";
         }
         public async Task SendMessageAsync(formData data)
         {

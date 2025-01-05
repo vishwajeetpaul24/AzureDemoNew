@@ -23,6 +23,7 @@ namespace AzureDemo.Controllers
         {
             if (ModelState.IsValid)
             {
+               
                 user.Id = new Guid();
                 _dbcontext.Users.Add(user);
                 await _dbcontext.SaveChangesAsync();
